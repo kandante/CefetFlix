@@ -1,0 +1,43 @@
+.filmesDiv2{
+
+  width: 300px;
+  float: left;
+  margin: auto 0px;
+  background-color: grey;
+  margin-top: 15px;
+  height: 1000px;
+  margin-left: 15px;
+}
+h3{
+  margin-left: 20px;
+}
+h2{
+    text-align: center;
+}
+
+p{
+
+  margin: 10px;
+}
+h1{
+  text-align: center;
+  color: white;
+  background-color: black;
+    margin: 0px auto;
+    padding: 15px;
+}
+body{
+    background-color: yellow;
+    margin: 0px auto;
+}
+
+section{
+  margin-left: 165px;
+}
+ul{
+  list-style: none;
+}
+
+img{
+  width: 300px;
+}
